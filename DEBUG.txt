@@ -1,0 +1,2311 @@
+Run 0 Start Pass Counter: 0
+Run 0 Magnitude: 68
+Run 0 Start Position: 50
+Run 0 End Pass Counter: 0
+Run 0 End Position: 49
+Run 1 Start Pass Counter: 0
+Run 1 Magnitude: 68
+Run 1 Start Position: 49
+Run 1 End Pass Counter: 0
+Run 1 End Position: 48
+Run 2 Start Pass Counter: 0
+Run 2 Magnitude: 68
+Run 2 Start Position: 48
+Run 2 End Pass Counter: 0
+Run 2 End Position: 47
+Run 3 Start Pass Counter: 0
+Run 3 Magnitude: 68
+Run 3 Start Position: 47
+Run 3 End Pass Counter: 0
+Run 3 End Position: 46
+Run 4 Start Pass Counter: 0
+Run 4 Magnitude: 68
+Run 4 Start Position: 46
+Run 4 End Pass Counter: 0
+Run 4 End Position: 45
+Run 5 Start Pass Counter: 0
+Run 5 Magnitude: 68
+Run 5 Start Position: 45
+Run 5 End Pass Counter: 0
+Run 5 End Position: 44
+Run 6 Start Pass Counter: 0
+Run 6 Magnitude: 68
+Run 6 Start Position: 44
+Run 6 End Pass Counter: 0
+Run 6 End Position: 43
+Run 7 Start Pass Counter: 0
+Run 7 Magnitude: 68
+Run 7 Start Position: 43
+Run 7 End Pass Counter: 0
+Run 7 End Position: 42
+Run 8 Start Pass Counter: 0
+Run 8 Magnitude: 68
+Run 8 Start Position: 42
+Run 8 End Pass Counter: 0
+Run 8 End Position: 41
+Run 9 Start Pass Counter: 0
+Run 9 Magnitude: 68
+Run 9 Start Position: 41
+Run 9 End Pass Counter: 0
+Run 9 End Position: 40
+Run 10 Start Pass Counter: 0
+Run 10 Magnitude: 68
+Run 10 Start Position: 40
+Run 10 End Pass Counter: 0
+Run 10 End Position: 39
+Run 11 Start Pass Counter: 0
+Run 11 Magnitude: 68
+Run 11 Start Position: 39
+Run 11 End Pass Counter: 0
+Run 11 End Position: 38
+Run 12 Start Pass Counter: 0
+Run 12 Magnitude: 68
+Run 12 Start Position: 38
+Run 12 End Pass Counter: 0
+Run 12 End Position: 37
+Run 13 Start Pass Counter: 0
+Run 13 Magnitude: 68
+Run 13 Start Position: 37
+Run 13 End Pass Counter: 0
+Run 13 End Position: 36
+Run 14 Start Pass Counter: 0
+Run 14 Magnitude: 68
+Run 14 Start Position: 36
+Run 14 End Pass Counter: 0
+Run 14 End Position: 35
+Run 15 Start Pass Counter: 0
+Run 15 Magnitude: 68
+Run 15 Start Position: 35
+Run 15 End Pass Counter: 0
+Run 15 End Position: 34
+Run 16 Start Pass Counter: 0
+Run 16 Magnitude: 68
+Run 16 Start Position: 34
+Run 16 End Pass Counter: 0
+Run 16 End Position: 33
+Run 17 Start Pass Counter: 0
+Run 17 Magnitude: 68
+Run 17 Start Position: 33
+Run 17 End Pass Counter: 0
+Run 17 End Position: 32
+Run 18 Start Pass Counter: 0
+Run 18 Magnitude: 68
+Run 18 Start Position: 32
+Run 18 End Pass Counter: 0
+Run 18 End Position: 31
+Run 19 Start Pass Counter: 0
+Run 19 Magnitude: 68
+Run 19 Start Position: 31
+Run 19 End Pass Counter: 0
+Run 19 End Position: 30
+Run 20 Start Pass Counter: 0
+Run 20 Magnitude: 68
+Run 20 Start Position: 30
+Run 20 End Pass Counter: 0
+Run 20 End Position: 29
+Run 21 Start Pass Counter: 0
+Run 21 Magnitude: 68
+Run 21 Start Position: 29
+Run 21 End Pass Counter: 0
+Run 21 End Position: 28
+Run 22 Start Pass Counter: 0
+Run 22 Magnitude: 68
+Run 22 Start Position: 28
+Run 22 End Pass Counter: 0
+Run 22 End Position: 27
+Run 23 Start Pass Counter: 0
+Run 23 Magnitude: 68
+Run 23 Start Position: 27
+Run 23 End Pass Counter: 0
+Run 23 End Position: 26
+Run 24 Start Pass Counter: 0
+Run 24 Magnitude: 68
+Run 24 Start Position: 26
+Run 24 End Pass Counter: 0
+Run 24 End Position: 25
+Run 25 Start Pass Counter: 0
+Run 25 Magnitude: 68
+Run 25 Start Position: 25
+Run 25 End Pass Counter: 0
+Run 25 End Position: 24
+Run 26 Start Pass Counter: 0
+Run 26 Magnitude: 68
+Run 26 Start Position: 24
+Run 26 End Pass Counter: 0
+Run 26 End Position: 23
+Run 27 Start Pass Counter: 0
+Run 27 Magnitude: 68
+Run 27 Start Position: 23
+Run 27 End Pass Counter: 0
+Run 27 End Position: 22
+Run 28 Start Pass Counter: 0
+Run 28 Magnitude: 68
+Run 28 Start Position: 22
+Run 28 End Pass Counter: 0
+Run 28 End Position: 21
+Run 29 Start Pass Counter: 0
+Run 29 Magnitude: 68
+Run 29 Start Position: 21
+Run 29 End Pass Counter: 0
+Run 29 End Position: 20
+Run 30 Start Pass Counter: 0
+Run 30 Magnitude: 68
+Run 30 Start Position: 20
+Run 30 End Pass Counter: 0
+Run 30 End Position: 19
+Run 31 Start Pass Counter: 0
+Run 31 Magnitude: 68
+Run 31 Start Position: 19
+Run 31 End Pass Counter: 0
+Run 31 End Position: 18
+Run 32 Start Pass Counter: 0
+Run 32 Magnitude: 68
+Run 32 Start Position: 18
+Run 32 End Pass Counter: 0
+Run 32 End Position: 17
+Run 33 Start Pass Counter: 0
+Run 33 Magnitude: 68
+Run 33 Start Position: 17
+Run 33 End Pass Counter: 0
+Run 33 End Position: 16
+Run 34 Start Pass Counter: 0
+Run 34 Magnitude: 68
+Run 34 Start Position: 16
+Run 34 End Pass Counter: 0
+Run 34 End Position: 15
+Run 35 Start Pass Counter: 0
+Run 35 Magnitude: 68
+Run 35 Start Position: 15
+Run 35 End Pass Counter: 0
+Run 35 End Position: 14
+Run 36 Start Pass Counter: 0
+Run 36 Magnitude: 68
+Run 36 Start Position: 14
+Run 36 End Pass Counter: 0
+Run 36 End Position: 13
+Run 37 Start Pass Counter: 0
+Run 37 Magnitude: 68
+Run 37 Start Position: 13
+Run 37 End Pass Counter: 0
+Run 37 End Position: 12
+Run 38 Start Pass Counter: 0
+Run 38 Magnitude: 68
+Run 38 Start Position: 12
+Run 38 End Pass Counter: 0
+Run 38 End Position: 11
+Run 39 Start Pass Counter: 0
+Run 39 Magnitude: 68
+Run 39 Start Position: 11
+Run 39 End Pass Counter: 0
+Run 39 End Position: 10
+Run 40 Start Pass Counter: 0
+Run 40 Magnitude: 68
+Run 40 Start Position: 10
+Run 40 End Pass Counter: 0
+Run 40 End Position: 9
+Run 41 Start Pass Counter: 0
+Run 41 Magnitude: 68
+Run 41 Start Position: 9
+Run 41 End Pass Counter: 0
+Run 41 End Position: 8
+Run 42 Start Pass Counter: 0
+Run 42 Magnitude: 68
+Run 42 Start Position: 8
+Run 42 End Pass Counter: 0
+Run 42 End Position: 7
+Run 43 Start Pass Counter: 0
+Run 43 Magnitude: 68
+Run 43 Start Position: 7
+Run 43 End Pass Counter: 0
+Run 43 End Position: 6
+Run 44 Start Pass Counter: 0
+Run 44 Magnitude: 68
+Run 44 Start Position: 6
+Run 44 End Pass Counter: 0
+Run 44 End Position: 5
+Run 45 Start Pass Counter: 0
+Run 45 Magnitude: 68
+Run 45 Start Position: 5
+Run 45 End Pass Counter: 0
+Run 45 End Position: 4
+Run 46 Start Pass Counter: 0
+Run 46 Magnitude: 68
+Run 46 Start Position: 4
+Run 46 End Pass Counter: 0
+Run 46 End Position: 3
+Run 47 Start Pass Counter: 0
+Run 47 Magnitude: 68
+Run 47 Start Position: 3
+Run 47 End Pass Counter: 0
+Run 47 End Position: 2
+Run 48 Start Pass Counter: 0
+Run 48 Magnitude: 68
+Run 48 Start Position: 2
+Run 48 End Pass Counter: 0
+Run 48 End Position: 1
+Run 49 Start Pass Counter: 0
+Run 49 Magnitude: 68
+Run 49 Start Position: 1
+Run 49 End Pass Counter: 0
+Run 49 End Position: 0
+Run 50 Start Pass Counter: 0
+Run 50 Magnitude: 68
+Run 50 Start Position: 0
+Run 51 End Pass Counter: 1
+Run 51 End Position: 99
+Run 51 Start Pass Counter: 1
+Run 51 Magnitude: 68
+Run 51 Start Position: 99
+Run 51 End Pass Counter: 1
+Run 51 End Position: 98
+Run 52 Start Pass Counter: 1
+Run 52 Magnitude: 68
+Run 52 Start Position: 98
+Run 52 End Pass Counter: 1
+Run 52 End Position: 97
+Run 53 Start Pass Counter: 1
+Run 53 Magnitude: 68
+Run 53 Start Position: 97
+Run 53 End Pass Counter: 1
+Run 53 End Position: 96
+Run 54 Start Pass Counter: 1
+Run 54 Magnitude: 68
+Run 54 Start Position: 96
+Run 54 End Pass Counter: 1
+Run 54 End Position: 95
+Run 55 Start Pass Counter: 1
+Run 55 Magnitude: 68
+Run 55 Start Position: 95
+Run 55 End Pass Counter: 1
+Run 55 End Position: 94
+Run 56 Start Pass Counter: 1
+Run 56 Magnitude: 68
+Run 56 Start Position: 94
+Run 56 End Pass Counter: 1
+Run 56 End Position: 93
+Run 57 Start Pass Counter: 1
+Run 57 Magnitude: 68
+Run 57 Start Position: 93
+Run 57 End Pass Counter: 1
+Run 57 End Position: 92
+Run 58 Start Pass Counter: 1
+Run 58 Magnitude: 68
+Run 58 Start Position: 92
+Run 58 End Pass Counter: 1
+Run 58 End Position: 91
+Run 59 Start Pass Counter: 1
+Run 59 Magnitude: 68
+Run 59 Start Position: 91
+Run 59 End Pass Counter: 1
+Run 59 End Position: 90
+Run 60 Start Pass Counter: 1
+Run 60 Magnitude: 68
+Run 60 Start Position: 90
+Run 60 End Pass Counter: 1
+Run 60 End Position: 89
+Run 61 Start Pass Counter: 1
+Run 61 Magnitude: 68
+Run 61 Start Position: 89
+Run 61 End Pass Counter: 1
+Run 61 End Position: 88
+Run 62 Start Pass Counter: 1
+Run 62 Magnitude: 68
+Run 62 Start Position: 88
+Run 62 End Pass Counter: 1
+Run 62 End Position: 87
+Run 63 Start Pass Counter: 1
+Run 63 Magnitude: 68
+Run 63 Start Position: 87
+Run 63 End Pass Counter: 1
+Run 63 End Position: 86
+Run 64 Start Pass Counter: 1
+Run 64 Magnitude: 68
+Run 64 Start Position: 86
+Run 64 End Pass Counter: 1
+Run 64 End Position: 85
+Run 65 Start Pass Counter: 1
+Run 65 Magnitude: 68
+Run 65 Start Position: 85
+Run 65 End Pass Counter: 1
+Run 65 End Position: 84
+Run 66 Start Pass Counter: 1
+Run 66 Magnitude: 68
+Run 66 Start Position: 84
+Run 66 End Pass Counter: 1
+Run 66 End Position: 83
+Run 67 Start Pass Counter: 1
+Run 67 Magnitude: 68
+Run 67 Start Position: 83
+Run 67 End Pass Counter: 1
+Run 67 End Position: 82
+Run 0 Start Pass Counter: 1
+Run 0 Magnitude: 30
+Run 0 Start Position: 82
+Run 0 End Pass Counter: 1
+Run 0 End Position: 81
+Run 1 Start Pass Counter: 1
+Run 1 Magnitude: 30
+Run 1 Start Position: 81
+Run 1 End Pass Counter: 1
+Run 1 End Position: 80
+Run 2 Start Pass Counter: 1
+Run 2 Magnitude: 30
+Run 2 Start Position: 80
+Run 2 End Pass Counter: 1
+Run 2 End Position: 79
+Run 3 Start Pass Counter: 1
+Run 3 Magnitude: 30
+Run 3 Start Position: 79
+Run 3 End Pass Counter: 1
+Run 3 End Position: 78
+Run 4 Start Pass Counter: 1
+Run 4 Magnitude: 30
+Run 4 Start Position: 78
+Run 4 End Pass Counter: 1
+Run 4 End Position: 77
+Run 5 Start Pass Counter: 1
+Run 5 Magnitude: 30
+Run 5 Start Position: 77
+Run 5 End Pass Counter: 1
+Run 5 End Position: 76
+Run 6 Start Pass Counter: 1
+Run 6 Magnitude: 30
+Run 6 Start Position: 76
+Run 6 End Pass Counter: 1
+Run 6 End Position: 75
+Run 7 Start Pass Counter: 1
+Run 7 Magnitude: 30
+Run 7 Start Position: 75
+Run 7 End Pass Counter: 1
+Run 7 End Position: 74
+Run 8 Start Pass Counter: 1
+Run 8 Magnitude: 30
+Run 8 Start Position: 74
+Run 8 End Pass Counter: 1
+Run 8 End Position: 73
+Run 9 Start Pass Counter: 1
+Run 9 Magnitude: 30
+Run 9 Start Position: 73
+Run 9 End Pass Counter: 1
+Run 9 End Position: 72
+Run 10 Start Pass Counter: 1
+Run 10 Magnitude: 30
+Run 10 Start Position: 72
+Run 10 End Pass Counter: 1
+Run 10 End Position: 71
+Run 11 Start Pass Counter: 1
+Run 11 Magnitude: 30
+Run 11 Start Position: 71
+Run 11 End Pass Counter: 1
+Run 11 End Position: 70
+Run 12 Start Pass Counter: 1
+Run 12 Magnitude: 30
+Run 12 Start Position: 70
+Run 12 End Pass Counter: 1
+Run 12 End Position: 69
+Run 13 Start Pass Counter: 1
+Run 13 Magnitude: 30
+Run 13 Start Position: 69
+Run 13 End Pass Counter: 1
+Run 13 End Position: 68
+Run 14 Start Pass Counter: 1
+Run 14 Magnitude: 30
+Run 14 Start Position: 68
+Run 14 End Pass Counter: 1
+Run 14 End Position: 67
+Run 15 Start Pass Counter: 1
+Run 15 Magnitude: 30
+Run 15 Start Position: 67
+Run 15 End Pass Counter: 1
+Run 15 End Position: 66
+Run 16 Start Pass Counter: 1
+Run 16 Magnitude: 30
+Run 16 Start Position: 66
+Run 16 End Pass Counter: 1
+Run 16 End Position: 65
+Run 17 Start Pass Counter: 1
+Run 17 Magnitude: 30
+Run 17 Start Position: 65
+Run 17 End Pass Counter: 1
+Run 17 End Position: 64
+Run 18 Start Pass Counter: 1
+Run 18 Magnitude: 30
+Run 18 Start Position: 64
+Run 18 End Pass Counter: 1
+Run 18 End Position: 63
+Run 19 Start Pass Counter: 1
+Run 19 Magnitude: 30
+Run 19 Start Position: 63
+Run 19 End Pass Counter: 1
+Run 19 End Position: 62
+Run 20 Start Pass Counter: 1
+Run 20 Magnitude: 30
+Run 20 Start Position: 62
+Run 20 End Pass Counter: 1
+Run 20 End Position: 61
+Run 21 Start Pass Counter: 1
+Run 21 Magnitude: 30
+Run 21 Start Position: 61
+Run 21 End Pass Counter: 1
+Run 21 End Position: 60
+Run 22 Start Pass Counter: 1
+Run 22 Magnitude: 30
+Run 22 Start Position: 60
+Run 22 End Pass Counter: 1
+Run 22 End Position: 59
+Run 23 Start Pass Counter: 1
+Run 23 Magnitude: 30
+Run 23 Start Position: 59
+Run 23 End Pass Counter: 1
+Run 23 End Position: 58
+Run 24 Start Pass Counter: 1
+Run 24 Magnitude: 30
+Run 24 Start Position: 58
+Run 24 End Pass Counter: 1
+Run 24 End Position: 57
+Run 25 Start Pass Counter: 1
+Run 25 Magnitude: 30
+Run 25 Start Position: 57
+Run 25 End Pass Counter: 1
+Run 25 End Position: 56
+Run 26 Start Pass Counter: 1
+Run 26 Magnitude: 30
+Run 26 Start Position: 56
+Run 26 End Pass Counter: 1
+Run 26 End Position: 55
+Run 27 Start Pass Counter: 1
+Run 27 Magnitude: 30
+Run 27 Start Position: 55
+Run 27 End Pass Counter: 1
+Run 27 End Position: 54
+Run 28 Start Pass Counter: 1
+Run 28 Magnitude: 30
+Run 28 Start Position: 54
+Run 28 End Pass Counter: 1
+Run 28 End Position: 53
+Run 29 Start Pass Counter: 1
+Run 29 Magnitude: 30
+Run 29 Start Position: 53
+Run 29 End Pass Counter: 1
+Run 29 End Position: 52
+Run 0 Start Pass Counter: 1
+Run 0 Magnitude: 48
+Run 0 Start Position: 52
+Run 0 End Pass Counter: 1
+Run 0 End Position: 53
+Run 1 Start Pass Counter: 1
+Run 1 Magnitude: 48
+Run 1 Start Position: 53
+Run 1 End Pass Counter: 1
+Run 1 End Position: 54
+Run 2 Start Pass Counter: 1
+Run 2 Magnitude: 48
+Run 2 Start Position: 54
+Run 2 End Pass Counter: 1
+Run 2 End Position: 55
+Run 3 Start Pass Counter: 1
+Run 3 Magnitude: 48
+Run 3 Start Position: 55
+Run 3 End Pass Counter: 1
+Run 3 End Position: 56
+Run 4 Start Pass Counter: 1
+Run 4 Magnitude: 48
+Run 4 Start Position: 56
+Run 4 End Pass Counter: 1
+Run 4 End Position: 57
+Run 5 Start Pass Counter: 1
+Run 5 Magnitude: 48
+Run 5 Start Position: 57
+Run 5 End Pass Counter: 1
+Run 5 End Position: 58
+Run 6 Start Pass Counter: 1
+Run 6 Magnitude: 48
+Run 6 Start Position: 58
+Run 6 End Pass Counter: 1
+Run 6 End Position: 59
+Run 7 Start Pass Counter: 1
+Run 7 Magnitude: 48
+Run 7 Start Position: 59
+Run 7 End Pass Counter: 1
+Run 7 End Position: 60
+Run 8 Start Pass Counter: 1
+Run 8 Magnitude: 48
+Run 8 Start Position: 60
+Run 8 End Pass Counter: 1
+Run 8 End Position: 61
+Run 9 Start Pass Counter: 1
+Run 9 Magnitude: 48
+Run 9 Start Position: 61
+Run 9 End Pass Counter: 1
+Run 9 End Position: 62
+Run 10 Start Pass Counter: 1
+Run 10 Magnitude: 48
+Run 10 Start Position: 62
+Run 10 End Pass Counter: 1
+Run 10 End Position: 63
+Run 11 Start Pass Counter: 1
+Run 11 Magnitude: 48
+Run 11 Start Position: 63
+Run 11 End Pass Counter: 1
+Run 11 End Position: 64
+Run 12 Start Pass Counter: 1
+Run 12 Magnitude: 48
+Run 12 Start Position: 64
+Run 12 End Pass Counter: 1
+Run 12 End Position: 65
+Run 13 Start Pass Counter: 1
+Run 13 Magnitude: 48
+Run 13 Start Position: 65
+Run 13 End Pass Counter: 1
+Run 13 End Position: 66
+Run 14 Start Pass Counter: 1
+Run 14 Magnitude: 48
+Run 14 Start Position: 66
+Run 14 End Pass Counter: 1
+Run 14 End Position: 67
+Run 15 Start Pass Counter: 1
+Run 15 Magnitude: 48
+Run 15 Start Position: 67
+Run 15 End Pass Counter: 1
+Run 15 End Position: 68
+Run 16 Start Pass Counter: 1
+Run 16 Magnitude: 48
+Run 16 Start Position: 68
+Run 16 End Pass Counter: 1
+Run 16 End Position: 69
+Run 17 Start Pass Counter: 1
+Run 17 Magnitude: 48
+Run 17 Start Position: 69
+Run 17 End Pass Counter: 1
+Run 17 End Position: 70
+Run 18 Start Pass Counter: 1
+Run 18 Magnitude: 48
+Run 18 Start Position: 70
+Run 18 End Pass Counter: 1
+Run 18 End Position: 71
+Run 19 Start Pass Counter: 1
+Run 19 Magnitude: 48
+Run 19 Start Position: 71
+Run 19 End Pass Counter: 1
+Run 19 End Position: 72
+Run 20 Start Pass Counter: 1
+Run 20 Magnitude: 48
+Run 20 Start Position: 72
+Run 20 End Pass Counter: 1
+Run 20 End Position: 73
+Run 21 Start Pass Counter: 1
+Run 21 Magnitude: 48
+Run 21 Start Position: 73
+Run 21 End Pass Counter: 1
+Run 21 End Position: 74
+Run 22 Start Pass Counter: 1
+Run 22 Magnitude: 48
+Run 22 Start Position: 74
+Run 22 End Pass Counter: 1
+Run 22 End Position: 75
+Run 23 Start Pass Counter: 1
+Run 23 Magnitude: 48
+Run 23 Start Position: 75
+Run 23 End Pass Counter: 1
+Run 23 End Position: 76
+Run 24 Start Pass Counter: 1
+Run 24 Magnitude: 48
+Run 24 Start Position: 76
+Run 24 End Pass Counter: 1
+Run 24 End Position: 77
+Run 25 Start Pass Counter: 1
+Run 25 Magnitude: 48
+Run 25 Start Position: 77
+Run 25 End Pass Counter: 1
+Run 25 End Position: 78
+Run 26 Start Pass Counter: 1
+Run 26 Magnitude: 48
+Run 26 Start Position: 78
+Run 26 End Pass Counter: 1
+Run 26 End Position: 79
+Run 27 Start Pass Counter: 1
+Run 27 Magnitude: 48
+Run 27 Start Position: 79
+Run 27 End Pass Counter: 1
+Run 27 End Position: 80
+Run 28 Start Pass Counter: 1
+Run 28 Magnitude: 48
+Run 28 Start Position: 80
+Run 28 End Pass Counter: 1
+Run 28 End Position: 81
+Run 29 Start Pass Counter: 1
+Run 29 Magnitude: 48
+Run 29 Start Position: 81
+Run 29 End Pass Counter: 1
+Run 29 End Position: 82
+Run 30 Start Pass Counter: 1
+Run 30 Magnitude: 48
+Run 30 Start Position: 82
+Run 30 End Pass Counter: 1
+Run 30 End Position: 83
+Run 31 Start Pass Counter: 1
+Run 31 Magnitude: 48
+Run 31 Start Position: 83
+Run 31 End Pass Counter: 1
+Run 31 End Position: 84
+Run 32 Start Pass Counter: 1
+Run 32 Magnitude: 48
+Run 32 Start Position: 84
+Run 32 End Pass Counter: 1
+Run 32 End Position: 85
+Run 33 Start Pass Counter: 1
+Run 33 Magnitude: 48
+Run 33 Start Position: 85
+Run 33 End Pass Counter: 1
+Run 33 End Position: 86
+Run 34 Start Pass Counter: 1
+Run 34 Magnitude: 48
+Run 34 Start Position: 86
+Run 34 End Pass Counter: 1
+Run 34 End Position: 87
+Run 35 Start Pass Counter: 1
+Run 35 Magnitude: 48
+Run 35 Start Position: 87
+Run 35 End Pass Counter: 1
+Run 35 End Position: 88
+Run 36 Start Pass Counter: 1
+Run 36 Magnitude: 48
+Run 36 Start Position: 88
+Run 36 End Pass Counter: 1
+Run 36 End Position: 89
+Run 37 Start Pass Counter: 1
+Run 37 Magnitude: 48
+Run 37 Start Position: 89
+Run 37 End Pass Counter: 1
+Run 37 End Position: 90
+Run 38 Start Pass Counter: 1
+Run 38 Magnitude: 48
+Run 38 Start Position: 90
+Run 38 End Pass Counter: 1
+Run 38 End Position: 91
+Run 39 Start Pass Counter: 1
+Run 39 Magnitude: 48
+Run 39 Start Position: 91
+Run 39 End Pass Counter: 1
+Run 39 End Position: 92
+Run 40 Start Pass Counter: 1
+Run 40 Magnitude: 48
+Run 40 Start Position: 92
+Run 40 End Pass Counter: 1
+Run 40 End Position: 93
+Run 41 Start Pass Counter: 1
+Run 41 Magnitude: 48
+Run 41 Start Position: 93
+Run 41 End Pass Counter: 1
+Run 41 End Position: 94
+Run 42 Start Pass Counter: 1
+Run 42 Magnitude: 48
+Run 42 Start Position: 94
+Run 42 End Pass Counter: 1
+Run 42 End Position: 95
+Run 43 Start Pass Counter: 1
+Run 43 Magnitude: 48
+Run 43 Start Position: 95
+Run 43 End Pass Counter: 1
+Run 43 End Position: 96
+Run 44 Start Pass Counter: 1
+Run 44 Magnitude: 48
+Run 44 Start Position: 96
+Run 44 End Pass Counter: 1
+Run 44 End Position: 97
+Run 45 Start Pass Counter: 1
+Run 45 Magnitude: 48
+Run 45 Start Position: 97
+Run 45 End Pass Counter: 1
+Run 45 End Position: 98
+Run 46 Start Pass Counter: 1
+Run 46 Magnitude: 48
+Run 46 Start Position: 98
+Run 46 End Pass Counter: 1
+Run 46 End Position: 99
+Run 47 Start Pass Counter: 1
+Run 47 Magnitude: 48
+Run 47 Start Position: 99
+Run 48 End Pass Counter: 2
+Run 48 End Position: 0
+Run 0 Start Pass Counter: 2
+Run 0 Magnitude: 5
+Run 0 Start Position: 0
+Run 1 End Pass Counter: 3
+Run 1 End Position: 99
+Run 1 Start Pass Counter: 3
+Run 1 Magnitude: 5
+Run 1 Start Position: 99
+Run 1 End Pass Counter: 3
+Run 1 End Position: 98
+Run 2 Start Pass Counter: 3
+Run 2 Magnitude: 5
+Run 2 Start Position: 98
+Run 2 End Pass Counter: 3
+Run 2 End Position: 97
+Run 3 Start Pass Counter: 3
+Run 3 Magnitude: 5
+Run 3 Start Position: 97
+Run 3 End Pass Counter: 3
+Run 3 End Position: 96
+Run 4 Start Pass Counter: 3
+Run 4 Magnitude: 5
+Run 4 Start Position: 96
+Run 4 End Pass Counter: 3
+Run 4 End Position: 95
+Run 0 Start Pass Counter: 3
+Run 0 Magnitude: 60
+Run 0 Start Position: 95
+Run 0 End Pass Counter: 3
+Run 0 End Position: 96
+Run 1 Start Pass Counter: 3
+Run 1 Magnitude: 60
+Run 1 Start Position: 96
+Run 1 End Pass Counter: 3
+Run 1 End Position: 97
+Run 2 Start Pass Counter: 3
+Run 2 Magnitude: 60
+Run 2 Start Position: 97
+Run 2 End Pass Counter: 3
+Run 2 End Position: 98
+Run 3 Start Pass Counter: 3
+Run 3 Magnitude: 60
+Run 3 Start Position: 98
+Run 3 End Pass Counter: 3
+Run 3 End Position: 99
+Run 4 Start Pass Counter: 3
+Run 4 Magnitude: 60
+Run 4 Start Position: 99
+Run 5 End Pass Counter: 4
+Run 5 End Position: 0
+Run 5 Start Pass Counter: 4
+Run 5 Magnitude: 60
+Run 5 Start Position: 0
+Run 5 End Pass Counter: 4
+Run 5 End Position: 1
+Run 6 Start Pass Counter: 4
+Run 6 Magnitude: 60
+Run 6 Start Position: 1
+Run 6 End Pass Counter: 4
+Run 6 End Position: 2
+Run 7 Start Pass Counter: 4
+Run 7 Magnitude: 60
+Run 7 Start Position: 2
+Run 7 End Pass Counter: 4
+Run 7 End Position: 3
+Run 8 Start Pass Counter: 4
+Run 8 Magnitude: 60
+Run 8 Start Position: 3
+Run 8 End Pass Counter: 4
+Run 8 End Position: 4
+Run 9 Start Pass Counter: 4
+Run 9 Magnitude: 60
+Run 9 Start Position: 4
+Run 9 End Pass Counter: 4
+Run 9 End Position: 5
+Run 10 Start Pass Counter: 4
+Run 10 Magnitude: 60
+Run 10 Start Position: 5
+Run 10 End Pass Counter: 4
+Run 10 End Position: 6
+Run 11 Start Pass Counter: 4
+Run 11 Magnitude: 60
+Run 11 Start Position: 6
+Run 11 End Pass Counter: 4
+Run 11 End Position: 7
+Run 12 Start Pass Counter: 4
+Run 12 Magnitude: 60
+Run 12 Start Position: 7
+Run 12 End Pass Counter: 4
+Run 12 End Position: 8
+Run 13 Start Pass Counter: 4
+Run 13 Magnitude: 60
+Run 13 Start Position: 8
+Run 13 End Pass Counter: 4
+Run 13 End Position: 9
+Run 14 Start Pass Counter: 4
+Run 14 Magnitude: 60
+Run 14 Start Position: 9
+Run 14 End Pass Counter: 4
+Run 14 End Position: 10
+Run 15 Start Pass Counter: 4
+Run 15 Magnitude: 60
+Run 15 Start Position: 10
+Run 15 End Pass Counter: 4
+Run 15 End Position: 11
+Run 16 Start Pass Counter: 4
+Run 16 Magnitude: 60
+Run 16 Start Position: 11
+Run 16 End Pass Counter: 4
+Run 16 End Position: 12
+Run 17 Start Pass Counter: 4
+Run 17 Magnitude: 60
+Run 17 Start Position: 12
+Run 17 End Pass Counter: 4
+Run 17 End Position: 13
+Run 18 Start Pass Counter: 4
+Run 18 Magnitude: 60
+Run 18 Start Position: 13
+Run 18 End Pass Counter: 4
+Run 18 End Position: 14
+Run 19 Start Pass Counter: 4
+Run 19 Magnitude: 60
+Run 19 Start Position: 14
+Run 19 End Pass Counter: 4
+Run 19 End Position: 15
+Run 20 Start Pass Counter: 4
+Run 20 Magnitude: 60
+Run 20 Start Position: 15
+Run 20 End Pass Counter: 4
+Run 20 End Position: 16
+Run 21 Start Pass Counter: 4
+Run 21 Magnitude: 60
+Run 21 Start Position: 16
+Run 21 End Pass Counter: 4
+Run 21 End Position: 17
+Run 22 Start Pass Counter: 4
+Run 22 Magnitude: 60
+Run 22 Start Position: 17
+Run 22 End Pass Counter: 4
+Run 22 End Position: 18
+Run 23 Start Pass Counter: 4
+Run 23 Magnitude: 60
+Run 23 Start Position: 18
+Run 23 End Pass Counter: 4
+Run 23 End Position: 19
+Run 24 Start Pass Counter: 4
+Run 24 Magnitude: 60
+Run 24 Start Position: 19
+Run 24 End Pass Counter: 4
+Run 24 End Position: 20
+Run 25 Start Pass Counter: 4
+Run 25 Magnitude: 60
+Run 25 Start Position: 20
+Run 25 End Pass Counter: 4
+Run 25 End Position: 21
+Run 26 Start Pass Counter: 4
+Run 26 Magnitude: 60
+Run 26 Start Position: 21
+Run 26 End Pass Counter: 4
+Run 26 End Position: 22
+Run 27 Start Pass Counter: 4
+Run 27 Magnitude: 60
+Run 27 Start Position: 22
+Run 27 End Pass Counter: 4
+Run 27 End Position: 23
+Run 28 Start Pass Counter: 4
+Run 28 Magnitude: 60
+Run 28 Start Position: 23
+Run 28 End Pass Counter: 4
+Run 28 End Position: 24
+Run 29 Start Pass Counter: 4
+Run 29 Magnitude: 60
+Run 29 Start Position: 24
+Run 29 End Pass Counter: 4
+Run 29 End Position: 25
+Run 30 Start Pass Counter: 4
+Run 30 Magnitude: 60
+Run 30 Start Position: 25
+Run 30 End Pass Counter: 4
+Run 30 End Position: 26
+Run 31 Start Pass Counter: 4
+Run 31 Magnitude: 60
+Run 31 Start Position: 26
+Run 31 End Pass Counter: 4
+Run 31 End Position: 27
+Run 32 Start Pass Counter: 4
+Run 32 Magnitude: 60
+Run 32 Start Position: 27
+Run 32 End Pass Counter: 4
+Run 32 End Position: 28
+Run 33 Start Pass Counter: 4
+Run 33 Magnitude: 60
+Run 33 Start Position: 28
+Run 33 End Pass Counter: 4
+Run 33 End Position: 29
+Run 34 Start Pass Counter: 4
+Run 34 Magnitude: 60
+Run 34 Start Position: 29
+Run 34 End Pass Counter: 4
+Run 34 End Position: 30
+Run 35 Start Pass Counter: 4
+Run 35 Magnitude: 60
+Run 35 Start Position: 30
+Run 35 End Pass Counter: 4
+Run 35 End Position: 31
+Run 36 Start Pass Counter: 4
+Run 36 Magnitude: 60
+Run 36 Start Position: 31
+Run 36 End Pass Counter: 4
+Run 36 End Position: 32
+Run 37 Start Pass Counter: 4
+Run 37 Magnitude: 60
+Run 37 Start Position: 32
+Run 37 End Pass Counter: 4
+Run 37 End Position: 33
+Run 38 Start Pass Counter: 4
+Run 38 Magnitude: 60
+Run 38 Start Position: 33
+Run 38 End Pass Counter: 4
+Run 38 End Position: 34
+Run 39 Start Pass Counter: 4
+Run 39 Magnitude: 60
+Run 39 Start Position: 34
+Run 39 End Pass Counter: 4
+Run 39 End Position: 35
+Run 40 Start Pass Counter: 4
+Run 40 Magnitude: 60
+Run 40 Start Position: 35
+Run 40 End Pass Counter: 4
+Run 40 End Position: 36
+Run 41 Start Pass Counter: 4
+Run 41 Magnitude: 60
+Run 41 Start Position: 36
+Run 41 End Pass Counter: 4
+Run 41 End Position: 37
+Run 42 Start Pass Counter: 4
+Run 42 Magnitude: 60
+Run 42 Start Position: 37
+Run 42 End Pass Counter: 4
+Run 42 End Position: 38
+Run 43 Start Pass Counter: 4
+Run 43 Magnitude: 60
+Run 43 Start Position: 38
+Run 43 End Pass Counter: 4
+Run 43 End Position: 39
+Run 44 Start Pass Counter: 4
+Run 44 Magnitude: 60
+Run 44 Start Position: 39
+Run 44 End Pass Counter: 4
+Run 44 End Position: 40
+Run 45 Start Pass Counter: 4
+Run 45 Magnitude: 60
+Run 45 Start Position: 40
+Run 45 End Pass Counter: 4
+Run 45 End Position: 41
+Run 46 Start Pass Counter: 4
+Run 46 Magnitude: 60
+Run 46 Start Position: 41
+Run 46 End Pass Counter: 4
+Run 46 End Position: 42
+Run 47 Start Pass Counter: 4
+Run 47 Magnitude: 60
+Run 47 Start Position: 42
+Run 47 End Pass Counter: 4
+Run 47 End Position: 43
+Run 48 Start Pass Counter: 4
+Run 48 Magnitude: 60
+Run 48 Start Position: 43
+Run 48 End Pass Counter: 4
+Run 48 End Position: 44
+Run 49 Start Pass Counter: 4
+Run 49 Magnitude: 60
+Run 49 Start Position: 44
+Run 49 End Pass Counter: 4
+Run 49 End Position: 45
+Run 50 Start Pass Counter: 4
+Run 50 Magnitude: 60
+Run 50 Start Position: 45
+Run 50 End Pass Counter: 4
+Run 50 End Position: 46
+Run 51 Start Pass Counter: 4
+Run 51 Magnitude: 60
+Run 51 Start Position: 46
+Run 51 End Pass Counter: 4
+Run 51 End Position: 47
+Run 52 Start Pass Counter: 4
+Run 52 Magnitude: 60
+Run 52 Start Position: 47
+Run 52 End Pass Counter: 4
+Run 52 End Position: 48
+Run 53 Start Pass Counter: 4
+Run 53 Magnitude: 60
+Run 53 Start Position: 48
+Run 53 End Pass Counter: 4
+Run 53 End Position: 49
+Run 54 Start Pass Counter: 4
+Run 54 Magnitude: 60
+Run 54 Start Position: 49
+Run 54 End Pass Counter: 4
+Run 54 End Position: 50
+Run 55 Start Pass Counter: 4
+Run 55 Magnitude: 60
+Run 55 Start Position: 50
+Run 55 End Pass Counter: 4
+Run 55 End Position: 51
+Run 56 Start Pass Counter: 4
+Run 56 Magnitude: 60
+Run 56 Start Position: 51
+Run 56 End Pass Counter: 4
+Run 56 End Position: 52
+Run 57 Start Pass Counter: 4
+Run 57 Magnitude: 60
+Run 57 Start Position: 52
+Run 57 End Pass Counter: 4
+Run 57 End Position: 53
+Run 58 Start Pass Counter: 4
+Run 58 Magnitude: 60
+Run 58 Start Position: 53
+Run 58 End Pass Counter: 4
+Run 58 End Position: 54
+Run 59 Start Pass Counter: 4
+Run 59 Magnitude: 60
+Run 59 Start Position: 54
+Run 59 End Pass Counter: 4
+Run 59 End Position: 55
+Run 0 Start Pass Counter: 4
+Run 0 Magnitude: 55
+Run 0 Start Position: 55
+Run 0 End Pass Counter: 4
+Run 0 End Position: 54
+Run 1 Start Pass Counter: 4
+Run 1 Magnitude: 55
+Run 1 Start Position: 54
+Run 1 End Pass Counter: 4
+Run 1 End Position: 53
+Run 2 Start Pass Counter: 4
+Run 2 Magnitude: 55
+Run 2 Start Position: 53
+Run 2 End Pass Counter: 4
+Run 2 End Position: 52
+Run 3 Start Pass Counter: 4
+Run 3 Magnitude: 55
+Run 3 Start Position: 52
+Run 3 End Pass Counter: 4
+Run 3 End Position: 51
+Run 4 Start Pass Counter: 4
+Run 4 Magnitude: 55
+Run 4 Start Position: 51
+Run 4 End Pass Counter: 4
+Run 4 End Position: 50
+Run 5 Start Pass Counter: 4
+Run 5 Magnitude: 55
+Run 5 Start Position: 50
+Run 5 End Pass Counter: 4
+Run 5 End Position: 49
+Run 6 Start Pass Counter: 4
+Run 6 Magnitude: 55
+Run 6 Start Position: 49
+Run 6 End Pass Counter: 4
+Run 6 End Position: 48
+Run 7 Start Pass Counter: 4
+Run 7 Magnitude: 55
+Run 7 Start Position: 48
+Run 7 End Pass Counter: 4
+Run 7 End Position: 47
+Run 8 Start Pass Counter: 4
+Run 8 Magnitude: 55
+Run 8 Start Position: 47
+Run 8 End Pass Counter: 4
+Run 8 End Position: 46
+Run 9 Start Pass Counter: 4
+Run 9 Magnitude: 55
+Run 9 Start Position: 46
+Run 9 End Pass Counter: 4
+Run 9 End Position: 45
+Run 10 Start Pass Counter: 4
+Run 10 Magnitude: 55
+Run 10 Start Position: 45
+Run 10 End Pass Counter: 4
+Run 10 End Position: 44
+Run 11 Start Pass Counter: 4
+Run 11 Magnitude: 55
+Run 11 Start Position: 44
+Run 11 End Pass Counter: 4
+Run 11 End Position: 43
+Run 12 Start Pass Counter: 4
+Run 12 Magnitude: 55
+Run 12 Start Position: 43
+Run 12 End Pass Counter: 4
+Run 12 End Position: 42
+Run 13 Start Pass Counter: 4
+Run 13 Magnitude: 55
+Run 13 Start Position: 42
+Run 13 End Pass Counter: 4
+Run 13 End Position: 41
+Run 14 Start Pass Counter: 4
+Run 14 Magnitude: 55
+Run 14 Start Position: 41
+Run 14 End Pass Counter: 4
+Run 14 End Position: 40
+Run 15 Start Pass Counter: 4
+Run 15 Magnitude: 55
+Run 15 Start Position: 40
+Run 15 End Pass Counter: 4
+Run 15 End Position: 39
+Run 16 Start Pass Counter: 4
+Run 16 Magnitude: 55
+Run 16 Start Position: 39
+Run 16 End Pass Counter: 4
+Run 16 End Position: 38
+Run 17 Start Pass Counter: 4
+Run 17 Magnitude: 55
+Run 17 Start Position: 38
+Run 17 End Pass Counter: 4
+Run 17 End Position: 37
+Run 18 Start Pass Counter: 4
+Run 18 Magnitude: 55
+Run 18 Start Position: 37
+Run 18 End Pass Counter: 4
+Run 18 End Position: 36
+Run 19 Start Pass Counter: 4
+Run 19 Magnitude: 55
+Run 19 Start Position: 36
+Run 19 End Pass Counter: 4
+Run 19 End Position: 35
+Run 20 Start Pass Counter: 4
+Run 20 Magnitude: 55
+Run 20 Start Position: 35
+Run 20 End Pass Counter: 4
+Run 20 End Position: 34
+Run 21 Start Pass Counter: 4
+Run 21 Magnitude: 55
+Run 21 Start Position: 34
+Run 21 End Pass Counter: 4
+Run 21 End Position: 33
+Run 22 Start Pass Counter: 4
+Run 22 Magnitude: 55
+Run 22 Start Position: 33
+Run 22 End Pass Counter: 4
+Run 22 End Position: 32
+Run 23 Start Pass Counter: 4
+Run 23 Magnitude: 55
+Run 23 Start Position: 32
+Run 23 End Pass Counter: 4
+Run 23 End Position: 31
+Run 24 Start Pass Counter: 4
+Run 24 Magnitude: 55
+Run 24 Start Position: 31
+Run 24 End Pass Counter: 4
+Run 24 End Position: 30
+Run 25 Start Pass Counter: 4
+Run 25 Magnitude: 55
+Run 25 Start Position: 30
+Run 25 End Pass Counter: 4
+Run 25 End Position: 29
+Run 26 Start Pass Counter: 4
+Run 26 Magnitude: 55
+Run 26 Start Position: 29
+Run 26 End Pass Counter: 4
+Run 26 End Position: 28
+Run 27 Start Pass Counter: 4
+Run 27 Magnitude: 55
+Run 27 Start Position: 28
+Run 27 End Pass Counter: 4
+Run 27 End Position: 27
+Run 28 Start Pass Counter: 4
+Run 28 Magnitude: 55
+Run 28 Start Position: 27
+Run 28 End Pass Counter: 4
+Run 28 End Position: 26
+Run 29 Start Pass Counter: 4
+Run 29 Magnitude: 55
+Run 29 Start Position: 26
+Run 29 End Pass Counter: 4
+Run 29 End Position: 25
+Run 30 Start Pass Counter: 4
+Run 30 Magnitude: 55
+Run 30 Start Position: 25
+Run 30 End Pass Counter: 4
+Run 30 End Position: 24
+Run 31 Start Pass Counter: 4
+Run 31 Magnitude: 55
+Run 31 Start Position: 24
+Run 31 End Pass Counter: 4
+Run 31 End Position: 23
+Run 32 Start Pass Counter: 4
+Run 32 Magnitude: 55
+Run 32 Start Position: 23
+Run 32 End Pass Counter: 4
+Run 32 End Position: 22
+Run 33 Start Pass Counter: 4
+Run 33 Magnitude: 55
+Run 33 Start Position: 22
+Run 33 End Pass Counter: 4
+Run 33 End Position: 21
+Run 34 Start Pass Counter: 4
+Run 34 Magnitude: 55
+Run 34 Start Position: 21
+Run 34 End Pass Counter: 4
+Run 34 End Position: 20
+Run 35 Start Pass Counter: 4
+Run 35 Magnitude: 55
+Run 35 Start Position: 20
+Run 35 End Pass Counter: 4
+Run 35 End Position: 19
+Run 36 Start Pass Counter: 4
+Run 36 Magnitude: 55
+Run 36 Start Position: 19
+Run 36 End Pass Counter: 4
+Run 36 End Position: 18
+Run 37 Start Pass Counter: 4
+Run 37 Magnitude: 55
+Run 37 Start Position: 18
+Run 37 End Pass Counter: 4
+Run 37 End Position: 17
+Run 38 Start Pass Counter: 4
+Run 38 Magnitude: 55
+Run 38 Start Position: 17
+Run 38 End Pass Counter: 4
+Run 38 End Position: 16
+Run 39 Start Pass Counter: 4
+Run 39 Magnitude: 55
+Run 39 Start Position: 16
+Run 39 End Pass Counter: 4
+Run 39 End Position: 15
+Run 40 Start Pass Counter: 4
+Run 40 Magnitude: 55
+Run 40 Start Position: 15
+Run 40 End Pass Counter: 4
+Run 40 End Position: 14
+Run 41 Start Pass Counter: 4
+Run 41 Magnitude: 55
+Run 41 Start Position: 14
+Run 41 End Pass Counter: 4
+Run 41 End Position: 13
+Run 42 Start Pass Counter: 4
+Run 42 Magnitude: 55
+Run 42 Start Position: 13
+Run 42 End Pass Counter: 4
+Run 42 End Position: 12
+Run 43 Start Pass Counter: 4
+Run 43 Magnitude: 55
+Run 43 Start Position: 12
+Run 43 End Pass Counter: 4
+Run 43 End Position: 11
+Run 44 Start Pass Counter: 4
+Run 44 Magnitude: 55
+Run 44 Start Position: 11
+Run 44 End Pass Counter: 4
+Run 44 End Position: 10
+Run 45 Start Pass Counter: 4
+Run 45 Magnitude: 55
+Run 45 Start Position: 10
+Run 45 End Pass Counter: 4
+Run 45 End Position: 9
+Run 46 Start Pass Counter: 4
+Run 46 Magnitude: 55
+Run 46 Start Position: 9
+Run 46 End Pass Counter: 4
+Run 46 End Position: 8
+Run 47 Start Pass Counter: 4
+Run 47 Magnitude: 55
+Run 47 Start Position: 8
+Run 47 End Pass Counter: 4
+Run 47 End Position: 7
+Run 48 Start Pass Counter: 4
+Run 48 Magnitude: 55
+Run 48 Start Position: 7
+Run 48 End Pass Counter: 4
+Run 48 End Position: 6
+Run 49 Start Pass Counter: 4
+Run 49 Magnitude: 55
+Run 49 Start Position: 6
+Run 49 End Pass Counter: 4
+Run 49 End Position: 5
+Run 50 Start Pass Counter: 4
+Run 50 Magnitude: 55
+Run 50 Start Position: 5
+Run 50 End Pass Counter: 4
+Run 50 End Position: 4
+Run 51 Start Pass Counter: 4
+Run 51 Magnitude: 55
+Run 51 Start Position: 4
+Run 51 End Pass Counter: 4
+Run 51 End Position: 3
+Run 52 Start Pass Counter: 4
+Run 52 Magnitude: 55
+Run 52 Start Position: 3
+Run 52 End Pass Counter: 4
+Run 52 End Position: 2
+Run 53 Start Pass Counter: 4
+Run 53 Magnitude: 55
+Run 53 Start Position: 2
+Run 53 End Pass Counter: 4
+Run 53 End Position: 1
+Run 54 Start Pass Counter: 4
+Run 54 Magnitude: 55
+Run 54 Start Position: 1
+Run 54 End Pass Counter: 4
+Run 54 End Position: 0
+Run 0 Start Pass Counter: 4
+Run 0 Magnitude: 1
+Run 0 Start Position: 0
+Run 0 End Pass Counter: 4
+Run 0 End Position: 1
+Run 0 Start Pass Counter: 4
+Run 0 Magnitude: 99
+Run 0 Start Position: 1
+Run 0 End Pass Counter: 4
+Run 0 End Position: 0
+Run 1 Start Pass Counter: 4
+Run 1 Magnitude: 99
+Run 1 Start Position: 0
+Run 2 End Pass Counter: 5
+Run 2 End Position: 99
+Run 2 Start Pass Counter: 5
+Run 2 Magnitude: 99
+Run 2 Start Position: 99
+Run 2 End Pass Counter: 5
+Run 2 End Position: 98
+Run 3 Start Pass Counter: 5
+Run 3 Magnitude: 99
+Run 3 Start Position: 98
+Run 3 End Pass Counter: 5
+Run 3 End Position: 97
+Run 4 Start Pass Counter: 5
+Run 4 Magnitude: 99
+Run 4 Start Position: 97
+Run 4 End Pass Counter: 5
+Run 4 End Position: 96
+Run 5 Start Pass Counter: 5
+Run 5 Magnitude: 99
+Run 5 Start Position: 96
+Run 5 End Pass Counter: 5
+Run 5 End Position: 95
+Run 6 Start Pass Counter: 5
+Run 6 Magnitude: 99
+Run 6 Start Position: 95
+Run 6 End Pass Counter: 5
+Run 6 End Position: 94
+Run 7 Start Pass Counter: 5
+Run 7 Magnitude: 99
+Run 7 Start Position: 94
+Run 7 End Pass Counter: 5
+Run 7 End Position: 93
+Run 8 Start Pass Counter: 5
+Run 8 Magnitude: 99
+Run 8 Start Position: 93
+Run 8 End Pass Counter: 5
+Run 8 End Position: 92
+Run 9 Start Pass Counter: 5
+Run 9 Magnitude: 99
+Run 9 Start Position: 92
+Run 9 End Pass Counter: 5
+Run 9 End Position: 91
+Run 10 Start Pass Counter: 5
+Run 10 Magnitude: 99
+Run 10 Start Position: 91
+Run 10 End Pass Counter: 5
+Run 10 End Position: 90
+Run 11 Start Pass Counter: 5
+Run 11 Magnitude: 99
+Run 11 Start Position: 90
+Run 11 End Pass Counter: 5
+Run 11 End Position: 89
+Run 12 Start Pass Counter: 5
+Run 12 Magnitude: 99
+Run 12 Start Position: 89
+Run 12 End Pass Counter: 5
+Run 12 End Position: 88
+Run 13 Start Pass Counter: 5
+Run 13 Magnitude: 99
+Run 13 Start Position: 88
+Run 13 End Pass Counter: 5
+Run 13 End Position: 87
+Run 14 Start Pass Counter: 5
+Run 14 Magnitude: 99
+Run 14 Start Position: 87
+Run 14 End Pass Counter: 5
+Run 14 End Position: 86
+Run 15 Start Pass Counter: 5
+Run 15 Magnitude: 99
+Run 15 Start Position: 86
+Run 15 End Pass Counter: 5
+Run 15 End Position: 85
+Run 16 Start Pass Counter: 5
+Run 16 Magnitude: 99
+Run 16 Start Position: 85
+Run 16 End Pass Counter: 5
+Run 16 End Position: 84
+Run 17 Start Pass Counter: 5
+Run 17 Magnitude: 99
+Run 17 Start Position: 84
+Run 17 End Pass Counter: 5
+Run 17 End Position: 83
+Run 18 Start Pass Counter: 5
+Run 18 Magnitude: 99
+Run 18 Start Position: 83
+Run 18 End Pass Counter: 5
+Run 18 End Position: 82
+Run 19 Start Pass Counter: 5
+Run 19 Magnitude: 99
+Run 19 Start Position: 82
+Run 19 End Pass Counter: 5
+Run 19 End Position: 81
+Run 20 Start Pass Counter: 5
+Run 20 Magnitude: 99
+Run 20 Start Position: 81
+Run 20 End Pass Counter: 5
+Run 20 End Position: 80
+Run 21 Start Pass Counter: 5
+Run 21 Magnitude: 99
+Run 21 Start Position: 80
+Run 21 End Pass Counter: 5
+Run 21 End Position: 79
+Run 22 Start Pass Counter: 5
+Run 22 Magnitude: 99
+Run 22 Start Position: 79
+Run 22 End Pass Counter: 5
+Run 22 End Position: 78
+Run 23 Start Pass Counter: 5
+Run 23 Magnitude: 99
+Run 23 Start Position: 78
+Run 23 End Pass Counter: 5
+Run 23 End Position: 77
+Run 24 Start Pass Counter: 5
+Run 24 Magnitude: 99
+Run 24 Start Position: 77
+Run 24 End Pass Counter: 5
+Run 24 End Position: 76
+Run 25 Start Pass Counter: 5
+Run 25 Magnitude: 99
+Run 25 Start Position: 76
+Run 25 End Pass Counter: 5
+Run 25 End Position: 75
+Run 26 Start Pass Counter: 5
+Run 26 Magnitude: 99
+Run 26 Start Position: 75
+Run 26 End Pass Counter: 5
+Run 26 End Position: 74
+Run 27 Start Pass Counter: 5
+Run 27 Magnitude: 99
+Run 27 Start Position: 74
+Run 27 End Pass Counter: 5
+Run 27 End Position: 73
+Run 28 Start Pass Counter: 5
+Run 28 Magnitude: 99
+Run 28 Start Position: 73
+Run 28 End Pass Counter: 5
+Run 28 End Position: 72
+Run 29 Start Pass Counter: 5
+Run 29 Magnitude: 99
+Run 29 Start Position: 72
+Run 29 End Pass Counter: 5
+Run 29 End Position: 71
+Run 30 Start Pass Counter: 5
+Run 30 Magnitude: 99
+Run 30 Start Position: 71
+Run 30 End Pass Counter: 5
+Run 30 End Position: 70
+Run 31 Start Pass Counter: 5
+Run 31 Magnitude: 99
+Run 31 Start Position: 70
+Run 31 End Pass Counter: 5
+Run 31 End Position: 69
+Run 32 Start Pass Counter: 5
+Run 32 Magnitude: 99
+Run 32 Start Position: 69
+Run 32 End Pass Counter: 5
+Run 32 End Position: 68
+Run 33 Start Pass Counter: 5
+Run 33 Magnitude: 99
+Run 33 Start Position: 68
+Run 33 End Pass Counter: 5
+Run 33 End Position: 67
+Run 34 Start Pass Counter: 5
+Run 34 Magnitude: 99
+Run 34 Start Position: 67
+Run 34 End Pass Counter: 5
+Run 34 End Position: 66
+Run 35 Start Pass Counter: 5
+Run 35 Magnitude: 99
+Run 35 Start Position: 66
+Run 35 End Pass Counter: 5
+Run 35 End Position: 65
+Run 36 Start Pass Counter: 5
+Run 36 Magnitude: 99
+Run 36 Start Position: 65
+Run 36 End Pass Counter: 5
+Run 36 End Position: 64
+Run 37 Start Pass Counter: 5
+Run 37 Magnitude: 99
+Run 37 Start Position: 64
+Run 37 End Pass Counter: 5
+Run 37 End Position: 63
+Run 38 Start Pass Counter: 5
+Run 38 Magnitude: 99
+Run 38 Start Position: 63
+Run 38 End Pass Counter: 5
+Run 38 End Position: 62
+Run 39 Start Pass Counter: 5
+Run 39 Magnitude: 99
+Run 39 Start Position: 62
+Run 39 End Pass Counter: 5
+Run 39 End Position: 61
+Run 40 Start Pass Counter: 5
+Run 40 Magnitude: 99
+Run 40 Start Position: 61
+Run 40 End Pass Counter: 5
+Run 40 End Position: 60
+Run 41 Start Pass Counter: 5
+Run 41 Magnitude: 99
+Run 41 Start Position: 60
+Run 41 End Pass Counter: 5
+Run 41 End Position: 59
+Run 42 Start Pass Counter: 5
+Run 42 Magnitude: 99
+Run 42 Start Position: 59
+Run 42 End Pass Counter: 5
+Run 42 End Position: 58
+Run 43 Start Pass Counter: 5
+Run 43 Magnitude: 99
+Run 43 Start Position: 58
+Run 43 End Pass Counter: 5
+Run 43 End Position: 57
+Run 44 Start Pass Counter: 5
+Run 44 Magnitude: 99
+Run 44 Start Position: 57
+Run 44 End Pass Counter: 5
+Run 44 End Position: 56
+Run 45 Start Pass Counter: 5
+Run 45 Magnitude: 99
+Run 45 Start Position: 56
+Run 45 End Pass Counter: 5
+Run 45 End Position: 55
+Run 46 Start Pass Counter: 5
+Run 46 Magnitude: 99
+Run 46 Start Position: 55
+Run 46 End Pass Counter: 5
+Run 46 End Position: 54
+Run 47 Start Pass Counter: 5
+Run 47 Magnitude: 99
+Run 47 Start Position: 54
+Run 47 End Pass Counter: 5
+Run 47 End Position: 53
+Run 48 Start Pass Counter: 5
+Run 48 Magnitude: 99
+Run 48 Start Position: 53
+Run 48 End Pass Counter: 5
+Run 48 End Position: 52
+Run 49 Start Pass Counter: 5
+Run 49 Magnitude: 99
+Run 49 Start Position: 52
+Run 49 End Pass Counter: 5
+Run 49 End Position: 51
+Run 50 Start Pass Counter: 5
+Run 50 Magnitude: 99
+Run 50 Start Position: 51
+Run 50 End Pass Counter: 5
+Run 50 End Position: 50
+Run 51 Start Pass Counter: 5
+Run 51 Magnitude: 99
+Run 51 Start Position: 50
+Run 51 End Pass Counter: 5
+Run 51 End Position: 49
+Run 52 Start Pass Counter: 5
+Run 52 Magnitude: 99
+Run 52 Start Position: 49
+Run 52 End Pass Counter: 5
+Run 52 End Position: 48
+Run 53 Start Pass Counter: 5
+Run 53 Magnitude: 99
+Run 53 Start Position: 48
+Run 53 End Pass Counter: 5
+Run 53 End Position: 47
+Run 54 Start Pass Counter: 5
+Run 54 Magnitude: 99
+Run 54 Start Position: 47
+Run 54 End Pass Counter: 5
+Run 54 End Position: 46
+Run 55 Start Pass Counter: 5
+Run 55 Magnitude: 99
+Run 55 Start Position: 46
+Run 55 End Pass Counter: 5
+Run 55 End Position: 45
+Run 56 Start Pass Counter: 5
+Run 56 Magnitude: 99
+Run 56 Start Position: 45
+Run 56 End Pass Counter: 5
+Run 56 End Position: 44
+Run 57 Start Pass Counter: 5
+Run 57 Magnitude: 99
+Run 57 Start Position: 44
+Run 57 End Pass Counter: 5
+Run 57 End Position: 43
+Run 58 Start Pass Counter: 5
+Run 58 Magnitude: 99
+Run 58 Start Position: 43
+Run 58 End Pass Counter: 5
+Run 58 End Position: 42
+Run 59 Start Pass Counter: 5
+Run 59 Magnitude: 99
+Run 59 Start Position: 42
+Run 59 End Pass Counter: 5
+Run 59 End Position: 41
+Run 60 Start Pass Counter: 5
+Run 60 Magnitude: 99
+Run 60 Start Position: 41
+Run 60 End Pass Counter: 5
+Run 60 End Position: 40
+Run 61 Start Pass Counter: 5
+Run 61 Magnitude: 99
+Run 61 Start Position: 40
+Run 61 End Pass Counter: 5
+Run 61 End Position: 39
+Run 62 Start Pass Counter: 5
+Run 62 Magnitude: 99
+Run 62 Start Position: 39
+Run 62 End Pass Counter: 5
+Run 62 End Position: 38
+Run 63 Start Pass Counter: 5
+Run 63 Magnitude: 99
+Run 63 Start Position: 38
+Run 63 End Pass Counter: 5
+Run 63 End Position: 37
+Run 64 Start Pass Counter: 5
+Run 64 Magnitude: 99
+Run 64 Start Position: 37
+Run 64 End Pass Counter: 5
+Run 64 End Position: 36
+Run 65 Start Pass Counter: 5
+Run 65 Magnitude: 99
+Run 65 Start Position: 36
+Run 65 End Pass Counter: 5
+Run 65 End Position: 35
+Run 66 Start Pass Counter: 5
+Run 66 Magnitude: 99
+Run 66 Start Position: 35
+Run 66 End Pass Counter: 5
+Run 66 End Position: 34
+Run 67 Start Pass Counter: 5
+Run 67 Magnitude: 99
+Run 67 Start Position: 34
+Run 67 End Pass Counter: 5
+Run 67 End Position: 33
+Run 68 Start Pass Counter: 5
+Run 68 Magnitude: 99
+Run 68 Start Position: 33
+Run 68 End Pass Counter: 5
+Run 68 End Position: 32
+Run 69 Start Pass Counter: 5
+Run 69 Magnitude: 99
+Run 69 Start Position: 32
+Run 69 End Pass Counter: 5
+Run 69 End Position: 31
+Run 70 Start Pass Counter: 5
+Run 70 Magnitude: 99
+Run 70 Start Position: 31
+Run 70 End Pass Counter: 5
+Run 70 End Position: 30
+Run 71 Start Pass Counter: 5
+Run 71 Magnitude: 99
+Run 71 Start Position: 30
+Run 71 End Pass Counter: 5
+Run 71 End Position: 29
+Run 72 Start Pass Counter: 5
+Run 72 Magnitude: 99
+Run 72 Start Position: 29
+Run 72 End Pass Counter: 5
+Run 72 End Position: 28
+Run 73 Start Pass Counter: 5
+Run 73 Magnitude: 99
+Run 73 Start Position: 28
+Run 73 End Pass Counter: 5
+Run 73 End Position: 27
+Run 74 Start Pass Counter: 5
+Run 74 Magnitude: 99
+Run 74 Start Position: 27
+Run 74 End Pass Counter: 5
+Run 74 End Position: 26
+Run 75 Start Pass Counter: 5
+Run 75 Magnitude: 99
+Run 75 Start Position: 26
+Run 75 End Pass Counter: 5
+Run 75 End Position: 25
+Run 76 Start Pass Counter: 5
+Run 76 Magnitude: 99
+Run 76 Start Position: 25
+Run 76 End Pass Counter: 5
+Run 76 End Position: 24
+Run 77 Start Pass Counter: 5
+Run 77 Magnitude: 99
+Run 77 Start Position: 24
+Run 77 End Pass Counter: 5
+Run 77 End Position: 23
+Run 78 Start Pass Counter: 5
+Run 78 Magnitude: 99
+Run 78 Start Position: 23
+Run 78 End Pass Counter: 5
+Run 78 End Position: 22
+Run 79 Start Pass Counter: 5
+Run 79 Magnitude: 99
+Run 79 Start Position: 22
+Run 79 End Pass Counter: 5
+Run 79 End Position: 21
+Run 80 Start Pass Counter: 5
+Run 80 Magnitude: 99
+Run 80 Start Position: 21
+Run 80 End Pass Counter: 5
+Run 80 End Position: 20
+Run 81 Start Pass Counter: 5
+Run 81 Magnitude: 99
+Run 81 Start Position: 20
+Run 81 End Pass Counter: 5
+Run 81 End Position: 19
+Run 82 Start Pass Counter: 5
+Run 82 Magnitude: 99
+Run 82 Start Position: 19
+Run 82 End Pass Counter: 5
+Run 82 End Position: 18
+Run 83 Start Pass Counter: 5
+Run 83 Magnitude: 99
+Run 83 Start Position: 18
+Run 83 End Pass Counter: 5
+Run 83 End Position: 17
+Run 84 Start Pass Counter: 5
+Run 84 Magnitude: 99
+Run 84 Start Position: 17
+Run 84 End Pass Counter: 5
+Run 84 End Position: 16
+Run 85 Start Pass Counter: 5
+Run 85 Magnitude: 99
+Run 85 Start Position: 16
+Run 85 End Pass Counter: 5
+Run 85 End Position: 15
+Run 86 Start Pass Counter: 5
+Run 86 Magnitude: 99
+Run 86 Start Position: 15
+Run 86 End Pass Counter: 5
+Run 86 End Position: 14
+Run 87 Start Pass Counter: 5
+Run 87 Magnitude: 99
+Run 87 Start Position: 14
+Run 87 End Pass Counter: 5
+Run 87 End Position: 13
+Run 88 Start Pass Counter: 5
+Run 88 Magnitude: 99
+Run 88 Start Position: 13
+Run 88 End Pass Counter: 5
+Run 88 End Position: 12
+Run 89 Start Pass Counter: 5
+Run 89 Magnitude: 99
+Run 89 Start Position: 12
+Run 89 End Pass Counter: 5
+Run 89 End Position: 11
+Run 90 Start Pass Counter: 5
+Run 90 Magnitude: 99
+Run 90 Start Position: 11
+Run 90 End Pass Counter: 5
+Run 90 End Position: 10
+Run 91 Start Pass Counter: 5
+Run 91 Magnitude: 99
+Run 91 Start Position: 10
+Run 91 End Pass Counter: 5
+Run 91 End Position: 9
+Run 92 Start Pass Counter: 5
+Run 92 Magnitude: 99
+Run 92 Start Position: 9
+Run 92 End Pass Counter: 5
+Run 92 End Position: 8
+Run 93 Start Pass Counter: 5
+Run 93 Magnitude: 99
+Run 93 Start Position: 8
+Run 93 End Pass Counter: 5
+Run 93 End Position: 7
+Run 94 Start Pass Counter: 5
+Run 94 Magnitude: 99
+Run 94 Start Position: 7
+Run 94 End Pass Counter: 5
+Run 94 End Position: 6
+Run 95 Start Pass Counter: 5
+Run 95 Magnitude: 99
+Run 95 Start Position: 6
+Run 95 End Pass Counter: 5
+Run 95 End Position: 5
+Run 96 Start Pass Counter: 5
+Run 96 Magnitude: 99
+Run 96 Start Position: 5
+Run 96 End Pass Counter: 5
+Run 96 End Position: 4
+Run 97 Start Pass Counter: 5
+Run 97 Magnitude: 99
+Run 97 Start Position: 4
+Run 97 End Pass Counter: 5
+Run 97 End Position: 3
+Run 98 Start Pass Counter: 5
+Run 98 Magnitude: 99
+Run 98 Start Position: 3
+Run 98 End Pass Counter: 5
+Run 98 End Position: 2
+Run 0 Start Pass Counter: 5
+Run 0 Magnitude: 14
+Run 0 Start Position: 2
+Run 0 End Pass Counter: 5
+Run 0 End Position: 3
+Run 1 Start Pass Counter: 5
+Run 1 Magnitude: 14
+Run 1 Start Position: 3
+Run 1 End Pass Counter: 5
+Run 1 End Position: 4
+Run 2 Start Pass Counter: 5
+Run 2 Magnitude: 14
+Run 2 Start Position: 4
+Run 2 End Pass Counter: 5
+Run 2 End Position: 5
+Run 3 Start Pass Counter: 5
+Run 3 Magnitude: 14
+Run 3 Start Position: 5
+Run 3 End Pass Counter: 5
+Run 3 End Position: 6
+Run 4 Start Pass Counter: 5
+Run 4 Magnitude: 14
+Run 4 Start Position: 6
+Run 4 End Pass Counter: 5
+Run 4 End Position: 7
+Run 5 Start Pass Counter: 5
+Run 5 Magnitude: 14
+Run 5 Start Position: 7
+Run 5 End Pass Counter: 5
+Run 5 End Position: 8
+Run 6 Start Pass Counter: 5
+Run 6 Magnitude: 14
+Run 6 Start Position: 8
+Run 6 End Pass Counter: 5
+Run 6 End Position: 9
+Run 7 Start Pass Counter: 5
+Run 7 Magnitude: 14
+Run 7 Start Position: 9
+Run 7 End Pass Counter: 5
+Run 7 End Position: 10
+Run 8 Start Pass Counter: 5
+Run 8 Magnitude: 14
+Run 8 Start Position: 10
+Run 8 End Pass Counter: 5
+Run 8 End Position: 11
+Run 9 Start Pass Counter: 5
+Run 9 Magnitude: 14
+Run 9 Start Position: 11
+Run 9 End Pass Counter: 5
+Run 9 End Position: 12
+Run 10 Start Pass Counter: 5
+Run 10 Magnitude: 14
+Run 10 Start Position: 12
+Run 10 End Pass Counter: 5
+Run 10 End Position: 13
+Run 11 Start Pass Counter: 5
+Run 11 Magnitude: 14
+Run 11 Start Position: 13
+Run 11 End Pass Counter: 5
+Run 11 End Position: 14
+Run 12 Start Pass Counter: 5
+Run 12 Magnitude: 14
+Run 12 Start Position: 14
+Run 12 End Pass Counter: 5
+Run 12 End Position: 15
+Run 13 Start Pass Counter: 5
+Run 13 Magnitude: 14
+Run 13 Start Position: 15
+Run 13 End Pass Counter: 5
+Run 13 End Position: 16
+Run 0 Start Pass Counter: 5
+Run 0 Magnitude: 82
+Run 0 Start Position: 16
+Run 0 End Pass Counter: 5
+Run 0 End Position: 15
+Run 1 Start Pass Counter: 5
+Run 1 Magnitude: 82
+Run 1 Start Position: 15
+Run 1 End Pass Counter: 5
+Run 1 End Position: 14
+Run 2 Start Pass Counter: 5
+Run 2 Magnitude: 82
+Run 2 Start Position: 14
+Run 2 End Pass Counter: 5
+Run 2 End Position: 13
+Run 3 Start Pass Counter: 5
+Run 3 Magnitude: 82
+Run 3 Start Position: 13
+Run 3 End Pass Counter: 5
+Run 3 End Position: 12
+Run 4 Start Pass Counter: 5
+Run 4 Magnitude: 82
+Run 4 Start Position: 12
+Run 4 End Pass Counter: 5
+Run 4 End Position: 11
+Run 5 Start Pass Counter: 5
+Run 5 Magnitude: 82
+Run 5 Start Position: 11
+Run 5 End Pass Counter: 5
+Run 5 End Position: 10
+Run 6 Start Pass Counter: 5
+Run 6 Magnitude: 82
+Run 6 Start Position: 10
+Run 6 End Pass Counter: 5
+Run 6 End Position: 9
+Run 7 Start Pass Counter: 5
+Run 7 Magnitude: 82
+Run 7 Start Position: 9
+Run 7 End Pass Counter: 5
+Run 7 End Position: 8
+Run 8 Start Pass Counter: 5
+Run 8 Magnitude: 82
+Run 8 Start Position: 8
+Run 8 End Pass Counter: 5
+Run 8 End Position: 7
+Run 9 Start Pass Counter: 5
+Run 9 Magnitude: 82
+Run 9 Start Position: 7
+Run 9 End Pass Counter: 5
+Run 9 End Position: 6
+Run 10 Start Pass Counter: 5
+Run 10 Magnitude: 82
+Run 10 Start Position: 6
+Run 10 End Pass Counter: 5
+Run 10 End Position: 5
+Run 11 Start Pass Counter: 5
+Run 11 Magnitude: 82
+Run 11 Start Position: 5
+Run 11 End Pass Counter: 5
+Run 11 End Position: 4
+Run 12 Start Pass Counter: 5
+Run 12 Magnitude: 82
+Run 12 Start Position: 4
+Run 12 End Pass Counter: 5
+Run 12 End Position: 3
+Run 13 Start Pass Counter: 5
+Run 13 Magnitude: 82
+Run 13 Start Position: 3
+Run 13 End Pass Counter: 5
+Run 13 End Position: 2
+Run 14 Start Pass Counter: 5
+Run 14 Magnitude: 82
+Run 14 Start Position: 2
+Run 14 End Pass Counter: 5
+Run 14 End Position: 1
+Run 15 Start Pass Counter: 5
+Run 15 Magnitude: 82
+Run 15 Start Position: 1
+Run 15 End Pass Counter: 5
+Run 15 End Position: 0
+Run 16 Start Pass Counter: 5
+Run 16 Magnitude: 82
+Run 16 Start Position: 0
+Run 17 End Pass Counter: 6
+Run 17 End Position: 99
+Run 17 Start Pass Counter: 6
+Run 17 Magnitude: 82
+Run 17 Start Position: 99
+Run 17 End Pass Counter: 6
+Run 17 End Position: 98
+Run 18 Start Pass Counter: 6
+Run 18 Magnitude: 82
+Run 18 Start Position: 98
+Run 18 End Pass Counter: 6
+Run 18 End Position: 97
+Run 19 Start Pass Counter: 6
+Run 19 Magnitude: 82
+Run 19 Start Position: 97
+Run 19 End Pass Counter: 6
+Run 19 End Position: 96
+Run 20 Start Pass Counter: 6
+Run 20 Magnitude: 82
+Run 20 Start Position: 96
+Run 20 End Pass Counter: 6
+Run 20 End Position: 95
+Run 21 Start Pass Counter: 6
+Run 21 Magnitude: 82
+Run 21 Start Position: 95
+Run 21 End Pass Counter: 6
+Run 21 End Position: 94
+Run 22 Start Pass Counter: 6
+Run 22 Magnitude: 82
+Run 22 Start Position: 94
+Run 22 End Pass Counter: 6
+Run 22 End Position: 93
+Run 23 Start Pass Counter: 6
+Run 23 Magnitude: 82
+Run 23 Start Position: 93
+Run 23 End Pass Counter: 6
+Run 23 End Position: 92
+Run 24 Start Pass Counter: 6
+Run 24 Magnitude: 82
+Run 24 Start Position: 92
+Run 24 End Pass Counter: 6
+Run 24 End Position: 91
+Run 25 Start Pass Counter: 6
+Run 25 Magnitude: 82
+Run 25 Start Position: 91
+Run 25 End Pass Counter: 6
+Run 25 End Position: 90
+Run 26 Start Pass Counter: 6
+Run 26 Magnitude: 82
+Run 26 Start Position: 90
+Run 26 End Pass Counter: 6
+Run 26 End Position: 89
+Run 27 Start Pass Counter: 6
+Run 27 Magnitude: 82
+Run 27 Start Position: 89
+Run 27 End Pass Counter: 6
+Run 27 End Position: 88
+Run 28 Start Pass Counter: 6
+Run 28 Magnitude: 82
+Run 28 Start Position: 88
+Run 28 End Pass Counter: 6
+Run 28 End Position: 87
+Run 29 Start Pass Counter: 6
+Run 29 Magnitude: 82
+Run 29 Start Position: 87
+Run 29 End Pass Counter: 6
+Run 29 End Position: 86
+Run 30 Start Pass Counter: 6
+Run 30 Magnitude: 82
+Run 30 Start Position: 86
+Run 30 End Pass Counter: 6
+Run 30 End Position: 85
+Run 31 Start Pass Counter: 6
+Run 31 Magnitude: 82
+Run 31 Start Position: 85
+Run 31 End Pass Counter: 6
+Run 31 End Position: 84
+Run 32 Start Pass Counter: 6
+Run 32 Magnitude: 82
+Run 32 Start Position: 84
+Run 32 End Pass Counter: 6
+Run 32 End Position: 83
+Run 33 Start Pass Counter: 6
+Run 33 Magnitude: 82
+Run 33 Start Position: 83
+Run 33 End Pass Counter: 6
+Run 33 End Position: 82
+Run 34 Start Pass Counter: 6
+Run 34 Magnitude: 82
+Run 34 Start Position: 82
+Run 34 End Pass Counter: 6
+Run 34 End Position: 81
+Run 35 Start Pass Counter: 6
+Run 35 Magnitude: 82
+Run 35 Start Position: 81
+Run 35 End Pass Counter: 6
+Run 35 End Position: 80
+Run 36 Start Pass Counter: 6
+Run 36 Magnitude: 82
+Run 36 Start Position: 80
+Run 36 End Pass Counter: 6
+Run 36 End Position: 79
+Run 37 Start Pass Counter: 6
+Run 37 Magnitude: 82
+Run 37 Start Position: 79
+Run 37 End Pass Counter: 6
+Run 37 End Position: 78
+Run 38 Start Pass Counter: 6
+Run 38 Magnitude: 82
+Run 38 Start Position: 78
+Run 38 End Pass Counter: 6
+Run 38 End Position: 77
+Run 39 Start Pass Counter: 6
+Run 39 Magnitude: 82
+Run 39 Start Position: 77
+Run 39 End Pass Counter: 6
+Run 39 End Position: 76
+Run 40 Start Pass Counter: 6
+Run 40 Magnitude: 82
+Run 40 Start Position: 76
+Run 40 End Pass Counter: 6
+Run 40 End Position: 75
+Run 41 Start Pass Counter: 6
+Run 41 Magnitude: 82
+Run 41 Start Position: 75
+Run 41 End Pass Counter: 6
+Run 41 End Position: 74
+Run 42 Start Pass Counter: 6
+Run 42 Magnitude: 82
+Run 42 Start Position: 74
+Run 42 End Pass Counter: 6
+Run 42 End Position: 73
+Run 43 Start Pass Counter: 6
+Run 43 Magnitude: 82
+Run 43 Start Position: 73
+Run 43 End Pass Counter: 6
+Run 43 End Position: 72
+Run 44 Start Pass Counter: 6
+Run 44 Magnitude: 82
+Run 44 Start Position: 72
+Run 44 End Pass Counter: 6
+Run 44 End Position: 71
+Run 45 Start Pass Counter: 6
+Run 45 Magnitude: 82
+Run 45 Start Position: 71
+Run 45 End Pass Counter: 6
+Run 45 End Position: 70
+Run 46 Start Pass Counter: 6
+Run 46 Magnitude: 82
+Run 46 Start Position: 70
+Run 46 End Pass Counter: 6
+Run 46 End Position: 69
+Run 47 Start Pass Counter: 6
+Run 47 Magnitude: 82
+Run 47 Start Position: 69
+Run 47 End Pass Counter: 6
+Run 47 End Position: 68
+Run 48 Start Pass Counter: 6
+Run 48 Magnitude: 82
+Run 48 Start Position: 68
+Run 48 End Pass Counter: 6
+Run 48 End Position: 67
+Run 49 Start Pass Counter: 6
+Run 49 Magnitude: 82
+Run 49 Start Position: 67
+Run 49 End Pass Counter: 6
+Run 49 End Position: 66
+Run 50 Start Pass Counter: 6
+Run 50 Magnitude: 82
+Run 50 Start Position: 66
+Run 50 End Pass Counter: 6
+Run 50 End Position: 65
+Run 51 Start Pass Counter: 6
+Run 51 Magnitude: 82
+Run 51 Start Position: 65
+Run 51 End Pass Counter: 6
+Run 51 End Position: 64
+Run 52 Start Pass Counter: 6
+Run 52 Magnitude: 82
+Run 52 Start Position: 64
+Run 52 End Pass Counter: 6
+Run 52 End Position: 63
+Run 53 Start Pass Counter: 6
+Run 53 Magnitude: 82
+Run 53 Start Position: 63
+Run 53 End Pass Counter: 6
+Run 53 End Position: 62
+Run 54 Start Pass Counter: 6
+Run 54 Magnitude: 82
+Run 54 Start Position: 62
+Run 54 End Pass Counter: 6
+Run 54 End Position: 61
+Run 55 Start Pass Counter: 6
+Run 55 Magnitude: 82
+Run 55 Start Position: 61
+Run 55 End Pass Counter: 6
+Run 55 End Position: 60
+Run 56 Start Pass Counter: 6
+Run 56 Magnitude: 82
+Run 56 Start Position: 60
+Run 56 End Pass Counter: 6
+Run 56 End Position: 59
+Run 57 Start Pass Counter: 6
+Run 57 Magnitude: 82
+Run 57 Start Position: 59
+Run 57 End Pass Counter: 6
+Run 57 End Position: 58
+Run 58 Start Pass Counter: 6
+Run 58 Magnitude: 82
+Run 58 Start Position: 58
+Run 58 End Pass Counter: 6
+Run 58 End Position: 57
+Run 59 Start Pass Counter: 6
+Run 59 Magnitude: 82
+Run 59 Start Position: 57
+Run 59 End Pass Counter: 6
+Run 59 End Position: 56
+Run 60 Start Pass Counter: 6
+Run 60 Magnitude: 82
+Run 60 Start Position: 56
+Run 60 End Pass Counter: 6
+Run 60 End Position: 55
+Run 61 Start Pass Counter: 6
+Run 61 Magnitude: 82
+Run 61 Start Position: 55
+Run 61 End Pass Counter: 6
+Run 61 End Position: 54
+Run 62 Start Pass Counter: 6
+Run 62 Magnitude: 82
+Run 62 Start Position: 54
+Run 62 End Pass Counter: 6
+Run 62 End Position: 53
+Run 63 Start Pass Counter: 6
+Run 63 Magnitude: 82
+Run 63 Start Position: 53
+Run 63 End Pass Counter: 6
+Run 63 End Position: 52
+Run 64 Start Pass Counter: 6
+Run 64 Magnitude: 82
+Run 64 Start Position: 52
+Run 64 End Pass Counter: 6
+Run 64 End Position: 51
+Run 65 Start Pass Counter: 6
+Run 65 Magnitude: 82
+Run 65 Start Position: 51
+Run 65 End Pass Counter: 6
+Run 65 End Position: 50
+Run 66 Start Pass Counter: 6
+Run 66 Magnitude: 82
+Run 66 Start Position: 50
+Run 66 End Pass Counter: 6
+Run 66 End Position: 49
+Run 67 Start Pass Counter: 6
+Run 67 Magnitude: 82
+Run 67 Start Position: 49
+Run 67 End Pass Counter: 6
+Run 67 End Position: 48
+Run 68 Start Pass Counter: 6
+Run 68 Magnitude: 82
+Run 68 Start Position: 48
+Run 68 End Pass Counter: 6
+Run 68 End Position: 47
+Run 69 Start Pass Counter: 6
+Run 69 Magnitude: 82
+Run 69 Start Position: 47
+Run 69 End Pass Counter: 6
+Run 69 End Position: 46
+Run 70 Start Pass Counter: 6
+Run 70 Magnitude: 82
+Run 70 Start Position: 46
+Run 70 End Pass Counter: 6
+Run 70 End Position: 45
+Run 71 Start Pass Counter: 6
+Run 71 Magnitude: 82
+Run 71 Start Position: 45
+Run 71 End Pass Counter: 6
+Run 71 End Position: 44
+Run 72 Start Pass Counter: 6
+Run 72 Magnitude: 82
+Run 72 Start Position: 44
+Run 72 End Pass Counter: 6
+Run 72 End Position: 43
+Run 73 Start Pass Counter: 6
+Run 73 Magnitude: 82
+Run 73 Start Position: 43
+Run 73 End Pass Counter: 6
+Run 73 End Position: 42
+Run 74 Start Pass Counter: 6
+Run 74 Magnitude: 82
+Run 74 Start Position: 42
+Run 74 End Pass Counter: 6
+Run 74 End Position: 41
+Run 75 Start Pass Counter: 6
+Run 75 Magnitude: 82
+Run 75 Start Position: 41
+Run 75 End Pass Counter: 6
+Run 75 End Position: 40
+Run 76 Start Pass Counter: 6
+Run 76 Magnitude: 82
+Run 76 Start Position: 40
+Run 76 End Pass Counter: 6
+Run 76 End Position: 39
+Run 77 Start Pass Counter: 6
+Run 77 Magnitude: 82
+Run 77 Start Position: 39
+Run 77 End Pass Counter: 6
+Run 77 End Position: 38
+Run 78 Start Pass Counter: 6
+Run 78 Magnitude: 82
+Run 78 Start Position: 38
+Run 78 End Pass Counter: 6
+Run 78 End Position: 37
+Run 79 Start Pass Counter: 6
+Run 79 Magnitude: 82
+Run 79 Start Position: 37
+Run 79 End Pass Counter: 6
+Run 79 End Position: 36
+Run 80 Start Pass Counter: 6
+Run 80 Magnitude: 82
+Run 80 Start Position: 36
+Run 80 End Pass Counter: 6
+Run 80 End Position: 35
+Run 81 Start Pass Counter: 6
+Run 81 Magnitude: 82
+Run 81 Start Position: 35
+Run 81 End Pass Counter: 6
+Run 81 End Position: 34
+6
